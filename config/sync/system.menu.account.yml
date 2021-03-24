@@ -1,0 +1,10 @@
+uuid: 24f773aa-fcba-4c94-bbb9-4e2cb6a52527
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: M_Bh81osDyUQ4wV0GgU_NdBNqkzM87sLxjaCdFj9mnw
+id: account
+label: 'Menu du compte de l''utilisateur'
+description: 'Liens associés au compte utilisateur courant'
+locked: true

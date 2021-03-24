@@ -1,0 +1,14 @@
+uuid: ff881f06-aa89-48ff-9286-22f1b9cf3f5f
+name: juliedurpalV2
+mail: julie_ly@hotmail.fr
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

@@ -1,0 +1,14 @@
+uuid: 2a79b4ca-6753-4e22-bdb0-99b25ce4e48b
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Retours utilisateurs sur le site web'
+recipients:
+  - julie_ly@hotmail.fr
+reply: ''
+weight: 0
+message: 'Votre message a été envoyé.'
+redirect: ''
